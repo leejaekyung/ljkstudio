@@ -53,14 +53,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://leejaekyung.github.io/ljkstudio/section/introduction/</guid>
-      <description>The background to the work.
-This paragraph contains one species, a Hippopotamus amphibius.
-This sentence cites an article in the bibliography (Author, 2014).
-This sentence cites another article (Author, 2015).
-This paragraph has a DOI citation at the end, which supports this statement👍.
-This paragraph links to an article by DOI and heterochrony in hadrosaurids&amp;rdquo;).
-This paragraph links to an article by PMID.
-Equations and formula can be included either inline (2+2=4 ) or as display blocks:</description>
+      <description>2+2=4 ) or as display blocks: \[ \sum_{i=0}^{\infty}\pi_i=\sum_{i=0}^{\infty}\rho^i\pi_0=\frac{\pi_0}{1-\rho}=1 \] -- 카타르 국립 박물관 프로젝트를 수행하던 중, Secondary Steel Structure의 설치에서 현장 작업자가 정확한 설치를 어려워 하였다. 카타르 박물관은 수직 수평의 부재로 이루어지는 일반적인 건축물과 달리, 수백개의 원반형태의 구조물이 불규칙적으로 결합된 형상을 하고 있다. 때문에 공간에 수직 수평의 그리드에 맞춰서 시공하기 보다는 각 부재의 특수한 위치를 정확히 확인하여 설치해야 했다. 현장에서 부재의 정확한 위치를 확인하기 위한 측량도구로 토탈 스테이션을 사용하고 있다. 토탈 스테이션은 1회 측량에 단일 점의 위치만 확인할 수 있고 공간상의 점을 측량하기 어려우며, XYZ의 좌표 값이 얻어지기 때문에 시각적으로 위치를 확인하기 어려워 측량에 많은 시간이 소요된다.</description>
     </item>
     
     <item>
