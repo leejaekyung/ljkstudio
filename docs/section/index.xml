@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Site Title | ljkstudio</title>
+    <link>https://leejaekyung.github.io/ljkstudio/section/</link>
+    <description>Recent content in Sections on Site Title | ljkstudio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <copyright>&amp;copy; 2017 Lee Jae Kyung</copyright>
+    
+	<atom:link href="https://leejaekyung.github.io/ljkstudio/section/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abstract</title>
+      <link>https://leejaekyung.github.io/ljkstudio/section/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/section/abstract/</guid>
+      <description>This is the first paragraph of the abstract.
+This is another paragraph of the abstract.</description>
+    </item>
+    
+    <item>
+      <title>Acknowledgments</title>
+      <link>https://leejaekyung.github.io/ljkstudio/section/acknowledgments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/section/acknowledgments/</guid>
+      <description>Our gratitude belongs to these people.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://leejaekyung.github.io/ljkstudio/section/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/section/introduction/</guid>
+      <description>The background to the work.
+This paragraph contains one species, a Hippopotamus amphibius.
+This sentence cites an article in the bibliography (Author, 2014).
+This sentence cites another article (Author, 2015).
+This paragraph has a DOI citation at the end, which supports this statement👍.
+This paragraph links to an article by DOI and heterochrony in hadrosaurids&amp;rdquo;).
+This paragraph links to an article by PMID.
+Equations and formula can be included either inline (2+2=4 ) or as display blocks:</description>
+    </item>
+    
+    <item>
+      <title>Methods</title>
+      <link>https://leejaekyung.github.io/ljkstudio/section/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/section/methods/</guid>
+      <description>How the experiment was performed.
+Cell culture The cells were cultured at 37°C overnight.</description>
+    </item>
+    
+    <item>
+      <title>Results</title>
+      <link>https://leejaekyung.github.io/ljkstudio/section/results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/section/results/</guid>
+      <description>The results of the experiment. See Figure 1 and Figure 2, as well as Table 1, for details.</description>
+    </item>
+    
+    <item>
+      <title>Discussion</title>
+      <link>https://leejaekyung.github.io/ljkstudio/section/discussion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/section/discussion/</guid>
+      <description>Discussion of the results and implications.
+This paragraph contains one species, a Hippopotamus amphibius.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,184 +1,201 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/post/first-post/</loc>
-      <lastmod>2017-10-18T07:22:23+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-figure/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/section/abstract/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/section/acknowledgments/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/figure/phyllotaxis/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/section/introduction/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/references/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/hero/</loc>
+    <lastmod>2017-10-15T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-table/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/section/methods/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/section/results/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/section/discussion/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/acknowledgments/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/publications_selected/</loc>
+    <lastmod>2016-04-20T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/post/</loc>
-      <lastmod>2017-10-18T07:22:23+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/talks/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leejaekyung.github.io/ljkstudio/</loc>
-      <lastmod>2017-10-15T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/tags/</loc>
+    <lastmod>2017-09-20T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/post/first-post/</loc>
+    <lastmod>2017-10-18T07:22:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/tags/academic/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/talk/example-talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/project/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/project/example-external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/publication/person-re-identification/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/publication/clothing-search/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/figure/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/home/</loc>
+    <lastmod>2017-10-15T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/post/</loc>
+    <lastmod>2017-10-18T07:22:23+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/section/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/</loc>
+    <lastmod>2017-10-15T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leejaekyung.github.io/ljkstudio/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
 </urlset>

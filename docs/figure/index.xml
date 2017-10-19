@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Figures on Site Title | ljkstudio</title>
+    <link>https://leejaekyung.github.io/ljkstudio/figure/</link>
+    <description>Recent content in Figures on Site Title | ljkstudio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <copyright>&amp;copy; 2017 Lee Jae Kyung</copyright>
+    
+	<atom:link href="https://leejaekyung.github.io/ljkstudio/figure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A box chart</title>
+      <link>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-figure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-figure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A visualisation</title>
+      <link>https://leejaekyung.github.io/ljkstudio/figure/phyllotaxis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/figure/phyllotaxis/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>A table of the results</title>
+      <link>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-table/</guid>
+      <description>  Heading 1 Heading 2     Data point Data point    </description>
+    </item>
+    
+  </channel>
+</rss>
