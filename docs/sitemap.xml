@@ -27,11 +27,6 @@
   </url>
   
   <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/hero/</loc>
-    <lastmod>2017-10-15T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-table/</loc>
   </url>
   
@@ -44,11 +39,6 @@
   </url>
   
   <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://leejaekyung.github.io/ljkstudio/section/discussion/</loc>
   </url>
   
@@ -57,127 +47,12 @@
   </url>
   
   <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/talks/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/teaching/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/tags/</loc>
-    <lastmod>2017-09-20T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/post/first-post/</loc>
-    <lastmod>2017-10-18T07:22:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/tags/academic/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/talk/example-talk/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/publication/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/talk/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/project/example-external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/publication/person-re-identification/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/publication/clothing-search/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://leejaekyung.github.io/ljkstudio/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://leejaekyung.github.io/ljkstudio/figure/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/home/</loc>
-    <lastmod>2017-10-15T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/post/</loc>
-    <lastmod>2017-10-18T07:22:23+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leejaekyung.github.io/ljkstudio/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,13 +63,11 @@
   
   <url>
     <loc>https://leejaekyung.github.io/ljkstudio/</loc>
-    <lastmod>2017-10-15T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leejaekyung.github.io/ljkstudio/tags/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

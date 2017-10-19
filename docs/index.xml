@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>UTF-8</language>
     <copyright>&amp;copy; 2017 Lee Jae Kyung</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://leejaekyung.github.io/ljkstudio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,8 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://leejaekyung.github.io/ljkstudio/section/abstract/</guid>
-      <description>This is the first paragraph of the abstract.
-This is another paragraph of the abstract.</description>
+      <description>This study attempted to quickly confirm the location for installation of structure members of the free-form building construction by AR technology in the field. This research tried accurately combined 3D model on-site by marker based AR. The experimentally applied to the construction phase of the secondary steel structure of Qatar National Museum project in order to experience the problems encountered when applied to the actual project environment.</description>
     </item>
     
     <item>
@@ -75,16 +73,6 @@ Equations and formula can be included either inline (2+2=4 ) or as display block
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket: Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
-    
-    <item>
       <title>A table of the results</title>
       <link>https://leejaekyung.github.io/ljkstudio/figure/cell-culture-table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -113,16 +101,6 @@ Cell culture The cells were cultured at 37°C overnight.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
-    </item>
-    
-    <item>
       <title>Discussion</title>
       <link>https://leejaekyung.github.io/ljkstudio/section/discussion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,135 +117,6 @@ This paragraph contains one species, a Hippopotamus amphibius.</description>
       
       <guid>https://leejaekyung.github.io/ljkstudio/acknowledgments/</guid>
       <description>Our gratitude belongs to these people.</description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://leejaekyung.github.io/ljkstudio/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://leejaekyung.github.io/ljkstudio/post/first-post/</link>
-      <pubDate>Wed, 18 Oct 2017 07:22:23 +0900</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/post/first-post/</guid>
-      <description>Hello, World. 안녕하세요 이재경입니다. 새 홈페이지를 시작합니다. Hi, I am Lee JaeKyung. I am going to write a post on this page.
-http://github.com - automatic! GitHub</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://leejaekyung.github.io/ljkstudio/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://leejaekyung.github.io/ljkstudio/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://leejaekyung.github.io/ljkstudio/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/project/example-external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://leejaekyung.github.io/ljkstudio/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://leejaekyung.github.io/ljkstudio/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://leejaekyung.github.io/ljkstudio/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>
