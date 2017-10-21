@@ -28,3 +28,5 @@ Equations and formula can be included either inline (<script type="math/tex"> 2+
 
  테스트 해본 결과 마커방식의 증강현실 기술은 마커가 인식되었을 경우에만 위치를 인식할 수 있고, 카메라 앵글에 마커가 80% 이하로 위치하는 경우에 마커 인식이 불가능 하여 증강현실이 중단되었다. 이러한 문제에 대응하기 위해 마커가 사라져도 위치인식을 유지하는 기술을 추가적으로 적용해야 한다.
  마커를 사용한 좌표계 정합시 발생하는 오차에 대해 Pentenrieder et. al(2006)의 논문에서 ARToolkit, Metaio, SCR marker system 등의 SDK는 같은 알고리즘을 사용하고 있으나 환경제약 조건, 하드웨어 등의 요인에 의해 정확성의 차이가 발생할 수 있다고 설명하고 있다.
+
+ 양영모 병신.ㅋㅋㅋ
